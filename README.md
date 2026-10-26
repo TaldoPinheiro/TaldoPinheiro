@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Cauã Pinheiro
+# 💻 Cauã Pinheiro
 
 **`Desenvolvedor FullStack / Game Dev`**
 
